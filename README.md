@@ -73,4 +73,4 @@ Password: admin@123
 ```
 
 # Security Vulnerabilities
-If you find any security vulnerabilities in this app, please don't disclose it publicly. Please email me at: mailto:codertashi@gmail.com.
+If you discover a security vulnerability within this app, please send an e-mail to Tashi Tam'$ via codertashi@gmail.com. All security vulnerabilities will be promptly addressed.
