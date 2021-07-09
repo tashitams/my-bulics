@@ -1,0 +1,28 @@
+{
+  "name": "Buli Central School",
+  "short_name": "My BuliCS",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3367D6",
+  "theme_color": "#3367D6",
+  "description": "A progressive web app developed for Buli Central School",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/img/icon/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

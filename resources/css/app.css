@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+    .form-input {
+        @apply mt-0 block w-full px-0.5 border-0 border-b border-gray-200 focus:ring-0 focus:border-black;
+    }
+
+    .form-label {
+        @apply text-sm font-bold text-gray-700 tracking-wide pl-0.5;
+    }
+
+    .form-btn {
+        @apply flex items-center space-x-3 bg-gray-800 w-full md:w-1/5 text-white p-3 rounded-full justify-center font-semibold;
+    }
+
+    .form-error {
+        @apply text-red-500 text-sm font-semibold py-2;
+    }
+
+    .has-error {
+        @apply border-red-500 text-red-500;
+    }
+}
